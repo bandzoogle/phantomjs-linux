@@ -1,5 +1,5 @@
 module Phantomjs
   module Linux
-    VERSION = "0.0.2"
+    VERSION = "1.9.8"
   end
 end
